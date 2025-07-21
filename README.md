@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Intermediate British English Quiz</title>
+  <title>English Quiz</title>
   <style>
     body {
       font-family: Arial, sans-serif;
